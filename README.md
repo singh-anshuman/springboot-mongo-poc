@@ -1,3 +1,3 @@
-# springboot-mongo-poc
+# SpringBoot MongoDB Integration Implementation
 
-Test Commit.
+Spring Boot with MongoDB Integration Implementation. CRUD based REST APIs demonstrating the use of Spring Data Mongo DB library.
